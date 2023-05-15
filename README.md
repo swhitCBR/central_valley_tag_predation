@@ -28,11 +28,11 @@ _____________________________________
 
 [**Resource Guide on Tag Predation for Central Valley Salmonids**](https://www.researchgate.net/publication/365368320_Resource_Guide_on_Tag_Predation_for_Central_Valley_Salmonids) <br>
 
-_Summary of tag predation issue and past approaches for addressing the issue in the Delta and beyond.
+_Summary of tag predation issue and past approaches for addressing the issue in the Delta and beyond._ <br>
 This guide includes:
-- _Annnotaed bibliography highlighting relevant methods used to address possible tag predation_
+- _Annnotaed bibliography highlighting relevant methods used to address tag predation in past studies_
 - _Recommendations for selecting and applying different filter types_
-- _An index and glossary of terms for quick reference_
+- _An index and glossary of terms for quick reference_ <br>
 
 # Current Work
 
