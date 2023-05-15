@@ -36,6 +36,6 @@ This guide includes:
 
 # Current Work
 
-- Analysis of Known Tagged Predator Data
-- Delta predator filter R package (name TBD)
+- Preliminary Analysis of Known Tagged Predator Data
+- Developmont of predator filter R package (name TBD)
 
