@@ -18,7 +18,7 @@ _____________________________________
 | :---         |     :---:      |
 | Rebecca Buchanan*   | University of Washington     |
 | Russ Perry*   | USGS     |
-| Cyril Michele*   | NOAA/UCSC     |
+| Cyril Michel*   | NOAA/UCSC     |
 | Steve Whitlock     | University of Washington      |
 | ...     | ...      |
 
