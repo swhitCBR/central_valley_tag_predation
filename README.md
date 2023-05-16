@@ -30,7 +30,7 @@ _____________________________________
 
 _Summary of tag predation issue and past approaches for addressing the issue in the Delta and beyond._ <br>
 This guide includes:
-- _Annnotaed bibliography highlighting relevant methods used to address tag predation in past studies_
+- _Annnotated bibliography highlighting relevant methods used to address tag predation in past studies_
 - _Recommendations for selecting and applying different filter types_
 - _An index and glossary of terms for quick reference_ <br>
 
