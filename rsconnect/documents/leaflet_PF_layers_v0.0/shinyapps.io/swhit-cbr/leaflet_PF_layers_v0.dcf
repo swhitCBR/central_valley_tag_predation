@@ -1,0 +1,12 @@
+name: leaflet_PF_layers_v0
+title: leaflet_PF_layers_v0
+username: swhit-cbr
+account: swhit-cbr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13613356
+bundleId: 9535351
+url: https://swhit-cbr.shinyapps.io/leaflet_PF_layers_v0/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

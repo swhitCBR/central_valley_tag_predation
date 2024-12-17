@@ -6,21 +6,36 @@
 
 _____________________________________
 
+
+
+
+### Research Group Members
+
+| Name | Affiliation |
+| :---         |     :---:      |
+
+| Rebecca Buchanan*   | University of Washington     |
+| Russ Perry*   | USGS     |
+| Steve Whitlock     | University of Washington      |
+| Lauren Yamane   | USFWS     |
+| Bryan Matthias | USFWS     |
+| Mike Dodrill   | USGS     |
+| Jake Kelley   | USGS     |
+| Cyril Michel*   | NOAA/UCSC     |
+| ...     | ...      |
+
+
+## Flowline map
+
+https://swhit-cbr.shinyapps.io/leaflet_PF_layers_v0/
+
+
 ## **The Problem of Tag Predation**
 
 ...
 
 ## Project Aims
 
-
-### Research Group Members
-| Name | Affiliation |
-| :---         |     :---:      |
-| Rebecca Buchanan*   | University of Washington     |
-| Russ Perry*   | USGS     |
-| Cyril Michel*   | NOAA/UCSC     |
-| Steve Whitlock     | University of Washington      |
-| ...     | ...      |
 
 _____________________________________
 
