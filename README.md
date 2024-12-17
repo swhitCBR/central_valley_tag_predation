@@ -6,6 +6,13 @@
 
 ------------------------------------------------------------------------
 
+## Flowline map
+
+[Click here to view map](https://swhit-cbr.shinyapps.io/leaflet_PF_layers_v0/)
+
+------------------------------------------------------------------------
+
+
 ### Research Group Members
 
 | Name               |       Affiliation        |
@@ -20,9 +27,6 @@
 | Cyril Michel\*     |        NOAA/UCSC         |
 | ...                |           ...            |
 
-## Flowline map
-
-[Click here to view map](https://swhit-cbr.shinyapps.io/leaflet_PF_layers_v0/)
 
 ## **The Problem of Tag Predation**
 
