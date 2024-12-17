@@ -8,7 +8,7 @@
 
 ## Flowline map
 
-[Click here to view map](https://swhit-cbr.shinyapps.io/leaflet_PF_layers_v0/)
+Version 4.0.1 [Click here to view map](https://swhit-cbr.shinyapps.io/leaflet_PF_layers_v0/)
 
 ------------------------------------------------------------------------
 
